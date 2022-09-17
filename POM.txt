@@ -13,3 +13,5 @@ Author Prathipa
 5.Directory Page Class
 
 6.Status Branch
+
+7.Logout Page
