@@ -1,0 +1,11 @@
+This POM frameork:
+
+Author Prathipa
+
+1.Login Page class
+
+2.Home Page class
+
+3.Profile Page class
+
+4.DashBoard Page class
